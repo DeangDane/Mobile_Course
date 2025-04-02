@@ -36,8 +36,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Technologies Used
       Flutter
       Dart
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-04-02 at 21 01 45](https://github.com/user-attachments/assets/19bd8344-cfe9-4316-82eb-d5c1d30ebf34)
 
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-04-02 at 21 01 52](https://github.com/user-attachments/assets/fd80cc8b-cc9e-4910-baea-8d6a946751fd)
+<img width="400" alt="Screenshot 2025-04-02 at 8 44 57 PM" src="https://github.com/user-attachments/assets/d66f8529-8886-4c18-9059-9518ceb722a9" />
 
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-04-02 at 20 59 42](https://github.com/user-attachments/assets/da8d15de-558e-4d7d-8f5c-02145c0fcf09)
+<img width="400" alt="Screenshot 2025-04-02 at 8 45 25 PM" src="https://github.com/user-attachments/assets/313d2c92-5bf4-4e16-968a-ea547ed57f93" />
+
+<img width="400" alt="Screenshot 2025-04-02 at 8 45 49 PM" src="https://github.com/user-attachments/assets/ea78e92b-cf59-4b85-b9c8-52063896403e" />

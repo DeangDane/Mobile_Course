@@ -36,6 +36,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Technologies Used
       Flutter
       Dart
+## Screenshots
+      (Login and Registration UI preview attached in the design file.)
 
 <img width="400" alt="Screenshot 2025-04-02 at 8 44 57 PM" src="https://github.com/user-attachments/assets/d66f8529-8886-4c18-9059-9518ceb722a9" />
 

@@ -12,7 +12,7 @@ class LoginPage extends StatelessWidget {
         padding: const EdgeInsets.all(24.0),
         child: ListView(
           children: [
-            const SizedBox(height: 80),
+            const SizedBox(height: 60),
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -102,7 +102,7 @@ class LoginPage extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
             ),
-            const SizedBox(height: 168),
+            const SizedBox(height: 188),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [

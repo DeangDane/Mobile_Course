@@ -12,7 +12,7 @@ class RegisterPage extends StatelessWidget {
         padding: const EdgeInsets.all(24.0),
         child: ListView(
           children: [
-            const SizedBox(height: 80),
+            const SizedBox(height: 60),
 
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -123,7 +123,7 @@ class RegisterPage extends StatelessWidget {
                 style: TextStyle(color: Colors.white),
               ),
             ),
-            const SizedBox(height: 180),
+            const SizedBox(height: 200),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [

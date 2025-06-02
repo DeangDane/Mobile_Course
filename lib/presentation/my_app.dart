@@ -1,0 +1,19 @@
+import 'package:assignment_03/presentation/user_screen.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Bitcoin Transactions',
+      theme: ThemeData(primarySwatch: Colors.blue, useMaterial3: false),
+      home: const UserScreen(),
+    );
+  }
+}

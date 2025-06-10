@@ -15,6 +15,34 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Short Description
+This project involved developing a mobile frontend landing page using Flutter, based strictly on a provided Figma design. The goal was to accurately replicate the layout, typography, colors, and spacing from the Figma prototype.
+
+Tools Used:
+
+Flutter for frontend development
+
+Dart programming language
+
+Android Emulator and/or physical device for UI testing
+
+Figma as the UI design reference
+
+Visual Studio Code as the development IDE
+
+Development Process:
+The development began by analyzing the Figma layout to break it down into reusable Flutter widgets. Custom components were created for the header, featured courses, instructors, and footer sections. Attention was given to aligning spacing, font sizes, and colors to match the design exactly.
+
+Challenges Encountered:
+
+Matching the pixel-perfect spacing and alignment from Figma in Flutter required extensive tweaking of padding and margin values.
+
+Ensuring responsiveness across different screen sizes while preserving the original layout proportions.
+
+Managing nested layouts (e.g., horizontal scroll inside vertical scroll) and dynamic widget sizing to prevent overflow issues.
+
+Despite these challenges, the final result closely mirrors the Figma design and works smoothly on standard Android screen sizes.
+
 ## 📱 Screenshots
 
 <p float="left">
